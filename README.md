@@ -42,7 +42,7 @@ Find in [devices](./devices/README.md) scripts to:
 Check [track and follow](examples/track_and_follow/README.md) example, to see how to use some of these functionalities.
 
 ### How to cite
-We published a series of papers using this framework as a base! Find the paper, with some related articles, at:
+We published a series of papers using this framework as a base! Find the paper, with some related articles, at:  
 [Dynamic Distributed Computing for Infrastructure-Assisted Autonomous UAVs](https://iasl.ics.uci.edu/people/dcallega/#callegaro-baidya-2020-icc)
 > @inproceedings{callegaro-baidya-dynamic-distributed-2020-icc,  
 >  author = {Davide Callegaro and Sabur Baidya and Marco Levorato},  
@@ -52,4 +52,4 @@ We published a series of papers using this framework as a base! Find the paper, 
 > }  
 
 ### Contact me
-Send an email to me: [Davide](mailto:dcallega@uci.edu?subject=[GitHubHydra])!
+Send an email to [Davide](mailto:dcallega@uci.edu?subject=[GitHubHydra])!
