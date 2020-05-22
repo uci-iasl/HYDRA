@@ -7,7 +7,7 @@ Our system was designed, but is not limited to, enhance capabilities of Unmanned
 ## Index
 [Why another framework](#why-another-framework): simply we could not find what we need!
 
-[What is this](#what-is-this): explains the main ideas behind the framework.
+[How does it work](#how-does-it-work): explains the main ideas behind the framework.
 
 [Where should I start](#where-should-i-start): run your first script!
 
@@ -18,7 +18,7 @@ We developed because we couldn't find an easy way to code data analysis pipeline
 
 ![Random movement gif](./resources/drone.gif)
 
-### What is this
+### How does it work?
 The system is composed by a series of pipelines, where each **pipeline** is a cascade of operations transforming data into control. Each of these operations is encapsulated into a **module**, composed by an input queue, where the input comes in, a function executed on each piece of incoming information, and a series of output queues, where the data is communicated to the next modules. Note that multiple output queues allow data replication, used to enhance reliability and improve performance overall.
 
 The system's internal communication is built using the producer-consumer paradigm, allowing maximum flexibility and safe interaction between concurrent threads.
