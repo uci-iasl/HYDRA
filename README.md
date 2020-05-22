@@ -16,6 +16,8 @@ Our system was designed, but is not limited to, enhance capabilities of Unmanned
 ### Why another framework
 We developed because we couldn't find an easy way to code data analysis pipelines, that would give us the capability to easily change the analysis functions based on the context. Things change, and to make the best decisions you need awareness: this is why monitoring has a huge role in our framework. Find more in [devices](./devices/README.md) 
 
+![Random movement gif](./resources/drone.gif)
+
 ### What is this
 The system is composed by a series of pipelines, where each **pipeline** is a cascade of operations transforming data into control. Each of these operations is encapsulated into a **module**, composed by an input queue, where the input comes in, a function executed on each piece of incoming information, and a series of output queues, where the data is communicated to the next modules. Note that multiple output queues allow data replication, used to enhance reliability and improve performance overall.
 
