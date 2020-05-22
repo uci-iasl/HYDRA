@@ -30,12 +30,12 @@ The code you find here defines a set of modules that go from data acquisition, t
 
 ### Where should I start?
 Find in [devices](./devices/README.md) scripts to:
-> define some commonly used modules
-> find the data types natively supported, and good examples on how to extend them
-> skeleton of a Device class
-> real and abstract drones
-> loggers to read your Operative System information
-> networking code to establish, maintain, use a TCP connection
+* define some commonly used modules
+* find the data types natively supported, and good examples on how to extend them
+* skeleton of a Device class
+* real and abstract drones
+* loggers to read your Operative System information
+* networking code to establish, maintain, use a TCP connection
 
 Check [track and follow](examples/track_and_follow/README.md) example, so see how to use some of these functionalities.
 
