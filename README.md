@@ -5,7 +5,7 @@ HyDRA - Resilient computing for Heterogeneous Autonomous Devices - is a Python3 
 Our system was designed, but is not limited to, enhance capabilities of Unmanned Aerial Vehicles (commonly drones) through computational offloading. A drone-client will probe to find nearby edge servers that offer their resources.
 
 ## Index
-[Why another framework](#why-another-framework?): simply we could not find what we need!
+[Why another framework](#why-another-framework): simply we could not find what we need!
 
 [What is this](#what-is-this): explains the main ideas behind the framework.
 
