@@ -37,7 +37,7 @@ Find in [devices](./devices/README.md) scripts to:
 * loggers to read your Operative System information
 * networking code to establish, maintain, use a TCP connection
 
-Check [track and follow](examples/track_and_follow/README.md) example, so see how to use some of these functionalities.
+Check [track and follow](examples/track_and_follow/README.md) example, to see how to use some of these functionalities.
 
 ### Contact me
 Send an email to me: [Davide](mailto:dcallega@uci.edu?subject=[GitHubHydra])!
