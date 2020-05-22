@@ -44,15 +44,12 @@ Check [track and follow](examples/track_and_follow/README.md) example, to see ho
 ### How to cite
 We published a series of papers using this framework as a base! Find the paper, with some related articles, at:
 [Dynamic Distributed Computing for Infrastructure-Assisted Autonomous UAVs](https://iasl.ics.uci.edu/people/dcallega/#callegaro-baidya-2020-icc)
-> @inproceedings{callegaro-baidya-dynamic-distributed-2020-icc,
->  author = {Davide Callegaro and Sabur Baidya and Marco Levorato},
->  title = {Dynamic Distributed Computing for Infrastructure-Assisted Autonomous {UAVs}},
->  booktitle = {Proceedings of the IEEE International Conference on Communications (ICC)},
->  note = {SAC Tactile Internet Track},
-?  address = {Dublin, Ireland},
->  month = jun,
->  year = {2020},
->}
+> @inproceedings{callegaro-baidya-dynamic-distributed-2020-icc,  
+>  author = {Davide Callegaro and Sabur Baidya and Marco Levorato},  
+>  title = {Dynamic Distributed Computing for Infrastructure-Assisted Autonomous {UAVs}},  
+>  booktitle = {Proceedings of the IEEE International Conference on Communications (ICC)},  
+>  year = {2020},  
+> }  
 
 ### Contact me
 Send an email to me: [Davide](mailto:dcallega@uci.edu?subject=[GitHubHydra])!
