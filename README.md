@@ -6,8 +6,11 @@ Our system was designed, but is not limited to, enhance capabilities of Unmanned
 
 ## Index
 [Why another framework?](#why): simply we could not find what we need!
+
 [What is this?](#what): explains the main ideas behind the framework.
+
 [Where should I start?](#next): run your first script!
+
 [Contacts](#contactme): let me know what you think about HyDRA!
 
 #why
